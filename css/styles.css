@@ -1,0 +1,194 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+
+*{
+    font-family: Roboto;
+}
+
+
+body
+{
+    width: 1024px;
+    height: 1024px;
+    margin: 0 auto;
+}
+
+main
+{
+    position: relative;
+    height: 834px;
+
+}
+
+
+.centrar
+{
+    vertical-align: middle;
+
+}
+
+h3
+{
+        
+        margin-top: 10px;
+        margin-left: 10px;
+}
+.divH3
+{
+    position: absolute;
+    top: 0px;  
+    height: 38px;
+    width: 1024px;
+    background: #1CD1B0;
+    margin: 0px;
+}
+
+
+h1
+{
+    vertical-align: middle; 
+    margin-left: 28px;
+
+    
+}
+
+.divH1
+{
+    position:absolute;
+    top:38px;
+    height: 101px;
+    width: 1024px;
+    background-color: #00669F;
+    margin: 0px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+
+}
+
+
+
+
+
+h2
+{
+    position: relative;
+    text-align: center;
+    font-size:30px;
+    margin: 0px;
+    top:74px;
+}
+div
+{
+    position: absolute;
+    height: 529px;
+    width: 300px;
+    top:291px;
+    background-color: #F3F3F3; ;
+    /* margin: 15px; */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.div1
+{
+    left:32px;
+}
+
+.arriba
+{
+    position: absolute;
+    margin-top: 15.88px;
+    left: 21px;
+    z-index: 10;
+}
+
+
+.img1
+{
+    position:absolute;
+    top:128px;
+    left: 90px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    
+
+}
+
+
+.div2
+{
+    left:362px;
+}
+.img2
+{
+    position:absolute;
+    top:128px;
+    left: 89px;
+    border-radius: 50%;    
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.div3
+{
+    left:692px;
+}
+.img3
+{
+    position:absolute;
+    top:128px;
+    left: 89px;
+    border-radius: 50%;    
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+p
+{
+    position:  absolute;
+    font-size: 16px;
+    padding: 65px 17px 104px 16px;
+}
+
+button
+{
+    position:absolute;
+    width: 128.78px;
+    height: 48.52px;
+    margin-left: 85px ;
+    top: 461px;
+    background: #00669F;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #F3F3F3;
+
+}
+
+
+footer
+{
+    position: relative;
+    width: 1024px;
+    height: 51px;
+    left: 0px;
+    top:152px;
+    /* margin-bottom: 0px; */
+    background: #00669F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.textf
+{
+    position: relative;
+    top: 16px;
+    margin-left: 16px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFF9F9;
+
+}
+
